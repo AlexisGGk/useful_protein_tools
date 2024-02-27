@@ -1,4 +1,4 @@
-# useful_protein_tools
+# useful protein tools
 A list of useful webservers and tools that are relatively easy to use for protein analysis
 
 1. **Seamdock** - super easy web server docking https://bioserv.rpbs.univ-paris-diderot.fr/services/SeamDock/ 
