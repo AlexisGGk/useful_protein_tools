@@ -14,3 +14,9 @@ A list of useful webservers and tools that are relatively easy to use for protei
 6. **Web server ramachandran plot** easy to use displays allowed/disallowed regions good as a sanity check for structures https://swift.cmbi.umcn.nl/servers/html/ramaplot.html
 
 7. **Random sequence generator** https://www.bioinformatics.org/sms2/random_protein.html
+
+8. **Toxinpred2** - protein toxicity predictor https://webs.iiitd.edu.in/raghava/toxinpred2/ 
+
+9. **RCSB PDB 3D view** - easy protein structure viewer. Easier but with less options than Pymol. https://www.rcsb.org/3d-view 
+
+10. **Kdeep** - binding affinity prediction tool. https://playmolecule.org/Kdeep/ 
